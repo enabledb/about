@@ -8,7 +8,7 @@ EnableDB is a database gateway we've been building and experimentign with since 
 
 ## Can I use EnableDB?
 
-EnableDB is being used by clients of [Butler Logic](https://butlerlogic.com). We're hoping to make an open source version, but our open source time is currently allocated to projects hosted at:
+EnableDB is being used by clients of [Butler Logic](https://butlerlogic.com). We're working on a commercial version (it is non-trivial work), but hope to someday open source come components. We have finite time, so most of our OSS contribution time is currently allocated to projects hosted at:
 
 - [coreybutler](https://github.com/coreybutler) (Including [NVM for Windows](https://github.com/coreybutler/nvm-windows), [Fenix Web Server](https://preview.fenixwebserver.com), node-windows/mac/linux, etc.)
 - [author](https://github.com/author) (Including many Github actions, shell/CLI utilities, and more)
